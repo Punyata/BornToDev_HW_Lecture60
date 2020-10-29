@@ -1,0 +1,14 @@
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\HW_Lecture_60.csprojAssemblyReference.cache
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\MainWindow.g.cs
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\App.g.cs
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\HW_Lecture_60_MarkupCompile.cache
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\HW_Lecture_60_MarkupCompile.lref
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\bin\Debug\HW_Lecture_60.exe.config
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\bin\Debug\HW_Lecture_60.exe
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\bin\Debug\HW_Lecture_60.pdb
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\MainWindow.baml
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\HW_Lecture_60.g.resources
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\HW_Lecture_60.Properties.Resources.resources
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\HW_Lecture_60.csproj.GenerateResource.cache
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\HW_Lecture_60.exe
+D:\Online\Learning_C_Sharp\HW_Lecture_60\HW_Lecture_60\obj\Debug\HW_Lecture_60.pdb
